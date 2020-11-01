@@ -1,0 +1,353 @@
+.circle {
+	position: absolute;
+	left:100px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 5s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count:infinite;
+	animation-direction:reverse;
+	z-index:100;
+}
+
+.circle2 {
+	position: absolute;
+	left:150px;
+	margin-top:-200px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle3 {
+	position: absolute;
+	left:280px;
+	margin-top:370px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 5s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: reverse;
+	z-index: 100;
+}
+
+.circle4 {
+	position: absolute;
+	left:300px;
+	margin-top:50px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle5 {
+	position: absolute;
+	left:350px;
+	margin-top:200px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 5s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle6 {
+	position: absolute;
+	left:380px;
+	margin-top:-250px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle7 {
+	position: absolute;
+	left:440px;
+	margin-top:-50px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle8 {
+	position: absolute;
+	left:500px;
+	margin-top:140px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle9 {
+	position: absolute;
+	left:520px;
+	margin-top:-350px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 5s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: reverse;
+	z-index: 100;
+}
+
+.circle10 {
+	position: absolute;
+	left:1100px;
+	margin-top:310px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle11 {
+	position: absolute;
+	left:1150px;
+	margin-top:-100px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 5s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: reverse;
+	z-index: 100;
+}
+
+.circle12 {
+	position: absolute;
+	left:1190px;
+	margin-top:500px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle13 {
+	position: absolute;
+	left:1230px;
+	margin-top:650px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle14 {
+	position: absolute;
+	left:1260px;
+	margin-top:440px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 5s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: reverse;
+	z-index: 100;
+}
+
+.circle15 {
+	position: absolute;
+	left:1320px;
+	margin-top:60px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle16 {
+	position: absolute;
+	left:1370px;
+	margin-top:-220px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 5s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: reverse;
+	z-index: 100;
+}
+
+.circle17 {
+	position: absolute;
+	left:1420px;
+	margin-top:200px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle18 {
+	position: absolute;
+	left:1470px;
+	margin-top:380px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.circle19 {
+	position: absolute;
+	left:1520px;
+	margin-top:100px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 5s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-direction: reverse;
+	z-index: 100;
+}
+
+.circle20 {
+	position: absolute;
+	left:1550px;
+	margin-top:590px;
+	width:10px;
+	height:15px;
+	border-radius: 50%;
+	background-color:#bdf6ff;
+	animation-name: moving;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	z-index: 100;
+}
+
+.background-img {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+}
+
+@keyframes moving {
+	0% {
+		top:0%;
+	}
+	20% {
+		top:calc(100% - 200px);
+	}
+	100% {
+		top:0%;
+	}
+}
+
+.blur {
+	  position: fixed;
+	  width: 2650px;
+	  height: 1010px;
+	  z-index: 300;
+	  margin-left: 6%;
+	  margin-top: -6%;
+	  animation-name: blur;
+	  animation-duration: 3s;
+	  animation-fill-mode: forwards;
+	  animation-iteration-count: 1;
+	  fill:white;
+
+
+}
+  }
+  .blur-container {
+	position: absolute;
+	Color:white;
+  }
+
+@keyframes blur {
+	0% {
+		filter:blur(100px)
+	}
+	100% {
+		filter:blur(0px)
+	}
+  }
